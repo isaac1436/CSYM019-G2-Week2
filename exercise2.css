@@ -1,0 +1,13 @@
+.csym019{
+    float:left;
+    width:50%;
+    overflow:auto;
+    background-color: darkcyan;
+}
+
+.csym015{
+    float:right;
+    width:50%;
+    overflow:auto;
+    background-color: yellow;
+}

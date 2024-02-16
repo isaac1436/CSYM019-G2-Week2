@@ -1,0 +1,42 @@
+section{
+    border-radius: 20px;
+    font-family: monospace;
+}
+
+.csym019{
+    float:left;
+    height:250px;
+    width:48%;
+    overflow:auto;
+    margin:10px;
+    background-color: darkcyan;
+    
+}
+
+.csym015{
+    float:left;
+    height:250px;
+    width:48%;
+    overflow:auto;
+    margin:10px;
+    background-color: yellow;
+}
+
+.csym026{
+    float:left;
+    height:250px;
+    width:48%;
+    overflow:auto;
+    margin:10px;
+    background-color: rgb(78, 109, 94);
+    
+}
+
+.csym023{
+    float:left;
+    height:250px;
+    width:48%;
+    overflow:auto;
+    margin:10px;
+    background-color: rgb(221, 167, 217);
+}
